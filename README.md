@@ -1,4 +1,4 @@
-# Exploring MLOps: A GitHub Repository for Learning and Practice
+# Exploring MLOps: Learning and Practice
 
 [![author](https://img.shields.io/badge/author-jplavorr-black.svg)](https://www.linkedin.com/in/joão-pedro-lavor-65162312b/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/)  [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/jplavorr)
 
